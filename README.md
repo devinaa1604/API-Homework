@@ -1,4 +1,4 @@
-# Financial Planning:API
+# Financial Planning using APIs
 
 ![Financial Planner](Images/financial-planner.png)
 

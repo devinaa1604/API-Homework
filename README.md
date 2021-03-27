@@ -115,4 +115,4 @@ This section uses the Alpaca API to fetch historical closing prices for a retire
 
 ### Early Retirement
 
-Tred adjusting the portfolio to either include more risk (a higher stock than bond ratio) or to have a larger initial investment and rerun the retirement analysis to see what it would take to retire in `5` or `10` years instead of `30`!
+Tried adjusting the portfolio to either include more risk (a higher stock than bond ratio) or to have a larger initial investment and rerun the retirement analysis to see what it would take to retire in `5` or `10` years instead of `30`!
